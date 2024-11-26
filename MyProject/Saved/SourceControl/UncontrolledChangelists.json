@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/unreal/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Input/MobileControls.uasset",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
+				"D:/unreal/GameJam/MyProject/Content/Levels/CavernsLevel.umap",
+				"D:/unreal/GameJam/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/unreal/GameJam/MyProject/Content/Enemies/Dino/dinoEnemy.uasset",
+				"D:/unreal/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BW/KG5UHQF1J5S1FMYUY8TA4N.uasset",
+				"D:/unreal/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/ED/TISXIIWHYFLMRILICO9JUF.uasset",
+				"D:/unreal/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0Q/R542K7XFLO5MSHRMKDZJ8J.uasset",
+				"D:/unreal/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/VN/BORQGQ00993H3GZMTNGWLJ.uasset",
+				"D:/unreal/GameJam/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2T/3E2XS1D0VQCR2SNGG3D5MR.uasset",
 				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/Levels/CavernsLevel.umap",
 				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/CaveAssets/Meshes/Beam_A.uasset",
 				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/CaveAssets/Meshes/Beam_B.uasset",
@@ -281,8 +297,7 @@
 				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/CaveAssets/Meshes/Wall_Caves_Entrance_B_Wall_Caves_Entrance_B.uasset",
 				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/CaveAssets/Meshes/Wall_Mines_Entrance_A_Wall_Mines_Entrance_A.uasset",
 				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/CaveAssets/Meshes/Wall_Mines_Entrance_B_Wall_Mines_Entrance_B.uasset",
-				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/MAT-frilled_dino.uasset",
-				"D:/unreal/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/dani/Documents/Unreal Projects/GameJam/MyProject/Content/MAT-frilled_dino.uasset"
 			]
 		}
 	]
